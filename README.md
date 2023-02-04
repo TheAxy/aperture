@@ -7,4 +7,4 @@ https://theaxy.github.io/aperture/
 Одностраничный сайт, активный хедер с анимацией, меню бургер
 
 # Стек
-`html5` `css3` `js` 
+`html5` `css3` `js` `БЭМ`
